@@ -1,0 +1,10 @@
+/Users/nick/Downloads/The-Complete-Rust-Programming-Reference-Guide-master/Chapter12/rudis_async/target/rls/debug/deps/arrayvec-4d7f58acee0840f8.rmeta: /Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/lib.rs /Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/array.rs /Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/array_string.rs /Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/char.rs /Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/range.rs /Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/errors.rs
+
+/Users/nick/Downloads/The-Complete-Rust-Programming-Reference-Guide-master/Chapter12/rudis_async/target/rls/debug/deps/arrayvec-4d7f58acee0840f8.d: /Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/lib.rs /Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/array.rs /Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/array_string.rs /Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/char.rs /Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/range.rs /Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/errors.rs
+
+/Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/lib.rs:
+/Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/array.rs:
+/Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/array_string.rs:
+/Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/char.rs:
+/Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/range.rs:
+/Users/nick/.cargo/registry/src/mirrors.ustc.edu.cn-15f9db60536bad60/arrayvec-0.4.8/src/errors.rs:
